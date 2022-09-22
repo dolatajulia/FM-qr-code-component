@@ -7,3 +7,5 @@ This project is a solution to the [QR code component challenge on Frontend Mento
 https://dolatajulia.github.io/FM-qr-code-component/
 
 ## Project screenshot
+
+![image](resources/project-screenshot.jpg)
